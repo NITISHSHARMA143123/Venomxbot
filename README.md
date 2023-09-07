@@ -27,4 +27,4 @@
 <a href="https://t.me/vw_chatting_club"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 </details>
-OWNER @its_aryann
+OWNER https://t.me/its_aryann
